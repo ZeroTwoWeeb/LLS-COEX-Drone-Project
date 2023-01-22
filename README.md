@@ -1,6 +1,8 @@
 ![License](https://img.shields.io/github/license/ZeroTwoWeeb/LLS-COEX-Drone-Project)
 [![School](https://img.shields.io/badge/School-LLS-blue)](https://www.lls-bad.de/)
-[![teacher](https://img.shields.io/badge/Teacher-M.%20St%C3%BCrzel-brightgreen)](https://github.com/mstuerzel)
+[![teacher](https://img.shields.io/badge/Teacher-M.%20St%C3%BCrzel-blue)](https://github.com/mstuerzel)
+![Stars](https://img.shields.io/github/stars/ZeroTwoWeeb/LLS-COEX-Drone-Project)
+![last commit](https://img.shields.io/github/last-commit/ZeroTwoWeeb/LLS-COEX-Drone-Project)
 
 # Zusammenbau
 

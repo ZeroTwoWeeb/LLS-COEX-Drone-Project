@@ -76,7 +76,11 @@ Wir bauen das GPS Modul ohne Anleitung drauf (da es nicht in der Anleitung vorha
 
 ## Tag 7-8
 
-Nikita und Marko haben die Propeller oben draufgebaut und festgezogen. Wir haben hauptächlich anderen Gruppen geholfen und uns genauer in die Documentation vertieft. Der Erste Flugversuch gelingt mit relativ starkem drift welcher gut mit der Kalibrierung der RC gegensteuerbar war.
+Nikita und Marko haben die Propeller oben draufgebaut und festgezogen. Wir haben hauptächlich anderen Gruppen geholfen und uns genauer in die Dokumentation vertieft. Der Erste Flugversuch gelingt mit relativ starkem drift welcher gut mit der Kalibrierung der RC gegensteuerbar war. Mögliche urachen für den Drift sind:
+
+- (Wind)
+- GPS Modul
+- Schlechte Kalibrierung des Flight Controllers/Gyroskops
 
 [ ACHTUNG ]
 

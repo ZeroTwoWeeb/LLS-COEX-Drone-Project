@@ -1,3 +1,6 @@
+![License](https://img.shields.io/github/license/ZeroTwoWeeb/LLS-COEX-Drone-Project)
+[![School](https://img.shields.io/badge/School-LLS-blue)](https://www.lls-bad.de/)
+
 # Zusammenbau
 
 ## Tag 1
@@ -62,7 +65,7 @@ Motoren drehen sich, da Max die Firmware neu geflasht wurde und Jakob einige par
 
 ## Tag 6
 
-Wir bauen das GPS Modul ohne Anleitung drauf. Wir positionieren es oben über dem Flight Controller.
+Wir bauen das GPS Modul ohne Anleitung drauf (da es nicht in der Anleitung vorhanden ist). Wir positionieren es oben über dem Flight Controller.
 
 [ ACHTUNG ] Es ist wenig platz zwischen dem GPS-Modul und der Batterie. GPS tracking mag nicht Perfekt sein. Interference kann durch die Metallplatten an der Batterie ein möglicher verursacher des Problems sein (Drift).
 

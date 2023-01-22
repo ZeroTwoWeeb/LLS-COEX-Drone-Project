@@ -102,7 +102,7 @@ Außerdem sinken die berechneten Batterie-Prozente der Batterie im Flug extrem S
 
 Bei dem Versuch eine deferkte batterie (0V Zelle) zu verwenden hat sich die eine Batterie deutlich aufgebläht. Die Batterie ist nicht mehr zu gebrauchen. Der Flug lief jedoch kurzzeitig reibungslos.
 
-Bei einem Kalibrierungsversuch der Drohne geriet uns diese außer Kontrolle und hat dabei Max und Jakob leicht verletzt. Die Drohne hat deutlich mehr Power gehabt als alle anderen zuvor und hat die Batterie nichtmehr richtig erkannt. Dabei ist die Batterie kaputt gegangen, da die Rotoren die Balancing-Connector Kabel zerrschnitten haben. Die Drohne hat dabei aber keinen größeren Schaden genommen. Wir sind uns nicht sicher ob ein Hardware defekt vorliegt, vermuten es aber (Power Distribution Board vielleicht beschädigt).
+Bei einem Kalibrierungsversuch der Drohne geriet uns diese außer Kontrolle und hat dabei Max und Jakob leicht verletzt. Die Drohne hat deutlich mehr Power gehabt als alle anderen zuvor und hat die Batterie nicht richtig erkannt. Dabei ist die Batterie kaputt gegangen, da die Rotoren die Balancing-Connector Kabel zerrschnitten haben. Die Drohne hat dabei aber keinen größeren Schaden genommen. Wir sind uns nicht sicher ob ein Hardware defekt vorliegt, vermuten es aber (Power Distribution Board vielleicht beschädigt).
 
 ## Zwischenarbeit 1
 

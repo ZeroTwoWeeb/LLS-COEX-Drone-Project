@@ -85,7 +85,7 @@ Wir bauen das GPS Modul ohne Anleitung drauf (da es nicht in der Anleitung vorha
 Nikita und Marko haben die Propeller oben draufgebaut und festgezogen. Wir haben hauptächlich anderen Gruppen geholfen und uns genauer in die Dokumentation vertieft. Der Erste Flugversuch gelingt mit relativ starkem "Drift" welcher gut mit der Kalibrierung der RC gegensteuerbar war. Mögliche urachen für den "Drift" sind:
 
 - (Wind)
-- GPS Modul ("Drift" Problem)
+- GPS Modul
 - Schlechte Kalibrierung des Flight Controllers/Gyroskops
 
 [ ACHTUNG ]

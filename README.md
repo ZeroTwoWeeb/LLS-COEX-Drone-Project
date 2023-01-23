@@ -66,12 +66,12 @@ GPS Modul noch nicht fest eingebaut, da keine vorgegebene stelle an der Drohne v
 
 ## Tag 5
 
-Gegen Ende der Stunde haben wir es geschafft endlich die Motoren drehen zu lassen, dabei durften wir zusehen wie Justin die Motoren seiner Gruppe gegrillt hat, da er statt 5mm Schrauben, 8mm Schrauben verwendet hatte welche die Spulen des Motors berührten und einen Kurzschluss verursacht haben. Wir haben die SD-Karte des Flight Controllers neu formatiert und dann die original <a href="https://github.com/CopterExpress/Firmware/releases/download/v1.8.2-clover.13/px4fmu-v4_default.px4">[PX4 Firmware v1.8.2-clover-13 v4]</a> draufgeflasht. Die SD-Karte des Flightcontrollers ist nicht für den "Manual Flight" Relevant, da darauf nur Logs und Missionsdaten gespeichert werden. Nick hat dabei die Drohne erneut auf einbaufehler untersucht.
+Gegen Ende der Stunde haben wir es geschafft endlich die Motoren drehen zu lassen, dabei durften wir zusehen wie Justin die Motoren seiner Gruppe gegrillt hat, da er statt 5mm Schrauben, 8mm Schrauben verwendet hatte welche die Spulen des Motors berührten und einen Kurzschluss verursacht haben. Wir haben die SD-Karte des Flight Controllers neu formatiert und dann die original <a href="https://github.com/CopterExpress/Firmware/releases/download/v1.8.2-clover.13/px4fmu-v4_default.px4">[PX4 Firmware v1.8.2-clover-13 v4]</a> draufgeflasht. Die SD-Karte des Flightcontrollers ist nicht für den "Manual Flight" Relevant, da darauf nur Logs und Missionsdaten gespeichert werden. Nick hat dabei die Drohne erneut auf Einbaufehler untersucht.
 
 Eingebaute Teile: -
 
 Zusatzinformationen:<br>
-Motoren drehen sich, da Max die Firmware neu geflasht wurde und Jakob einige parameter verändert hat.
+Motoren drehen sich, da Max die Firmware neu geflasht hat und Jakob einige Parameter verändert hat.
 
 ## Tag 6
 

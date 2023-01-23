@@ -148,3 +148,7 @@ Links:
 - Drone WI-FI PW: "cloverwifi"
 - Wi-Fi Gateway / PI-IP: <a href=http://192.168.11.1>192.168.11.1</a>
 - LAN: <a href=http://192.168.137.177>192.168.137.177</a>
+
+# (Ziel: Drohne soll so aussehen)
+
+<img src="images\Propel_Millenium_Falcon.jpg" width="350">

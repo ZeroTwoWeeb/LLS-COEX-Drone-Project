@@ -17,7 +17,7 @@ Eingebaute Teile:
 - Motors
 - Speed Controller ( ESC )
 - Power Distribution Board ( PDB )
-- Flight Controller ( <a href=https://clover.coex.tech/en/coex_pix.html>COEX Pix Pinout</a> )
+- Flight Controller ( <a href=https://clover.coex.tech/en/coex_pix.html target="_blank">COEX Pix Pinout</a> )
 
   ### Pinout:
 

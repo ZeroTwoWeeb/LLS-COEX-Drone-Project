@@ -121,10 +121,10 @@ Zusatzinformationen: -
 
 ## Hilfe und Probleme bei anderen Gruppen
 
-Bei Justins Gruppe wurden in der qGroundControl app die Channel der RC nicht angezeigt. Wir haben ihnen geholfen die RC neu zu "Binden" da dies nicht von Werk aus gemacht wurde.
+Bei Justins Gruppe wurden in der qGroundControl app die Channel der RC nicht angezeigt. Wir haben ihnen geholfen die RC neu zu "<a href="https://clover.coex.tech/en/rc_flysky_a8s.html#rc_bind">Binden</a>" da dies nicht von Werk aus gemacht wurde.
 Dazu muss man beim Start des Recievers den Bind Knopf drücken und dann die RC einschalten. Danach sollte die RC mit der Drohne verbunden sein.
 
-Sebis Gruppe hatte eine verbundene RC, jedoch wurden die Channel trotzdem nicht angezeigt. Dagegen muss man den Knopf am Reciever für 2 Sekunden Drücken. Danach sollten die Channel in der Software angezeigt werden.
+Sebis Gruppe hatte eine verbundene RC, jedoch wurden die Channel trotzdem nicht angezeigt. Dagegen muss man den <a href="https://clover.coex.tech/en/rc_flysky_a8s.html#changing-the-receiver-mode-sbusi-bus">Knopf am Reciever für 2 Sekunden Drücken</a>. Danach sollten die Channel in der Software angezeigt werden.
 Außerdem Reagiert die Drohne nur ser verzögert auf die RC und das auf nahezu zufälligem wege. Warum dies so ist, ist uns nicht klar.
 Auch wackelt die Drohne sehr suspiziös wenn sich die Motoren drehen. Wir sind uns nicht sicher ob dies ein Hardware oder Software Problem ist.
 

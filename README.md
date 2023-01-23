@@ -3,6 +3,7 @@
 [![teacher](https://img.shields.io/badge/Teacher-M.%20St%C3%BCrzel-blue)](https://github.com/mstuerzel)
 ![Stars](https://img.shields.io/github/stars/ZeroTwoWeeb/LLS-COEX-Drone-Project)
 ![last commit](https://img.shields.io/github/last-commit/ZeroTwoWeeb/LLS-COEX-Drone-Project)
+![status](https://img.shields.io/badge/status-Abgeschlossen-green)
 
 # Zusammenbau
 

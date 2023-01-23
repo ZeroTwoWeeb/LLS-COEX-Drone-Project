@@ -95,7 +95,7 @@ Eingebaute Teile:
 
 Zusatzinformationen: -
 
-## Tag X der tag der Verdammnis
+## Tag X der Tag der Verdammnis
 
 Die Batterie der Drohne ist vollkommen unverständlich, die Zellen können Tiefentladen sein und daher nichtmehr von dem Ladegerät erkannt werden. Das Ladegerät lädt bei den defekten Batterien nur noch bis 12,6 Volt. 3 Batterien sind Scheinbar Kaputt. Die Zelle 4 hat 0 Volt (mehrere male gemessen) und keinen Wiederstand (Kurzschluss). Wir haben eine Batterie aufgeschnitten und die defekte Zelle abgelötet. Nach dem Anlöten der neuen Zelle und der erneuten Kalibrierung der Drohne Funktioniert die modifizierte Batterie normal jedoch mit 25% verringerter Kapazität. (Nur noch drei Zellen)
 Außerdem sinken die berechneten Batterie-Prozente der Batterie im Flug extrem Schnell und Steigen nach Landung erneut rasant. Die Drohne fliegt aber trotzdem normal, meckert jedoch über die Batterie Ladung. (Die Drohne nutzt vielleicht zu viel Ampere?)

@@ -112,8 +112,8 @@ Bei einem Kalibrierungsversuch der Drohne geriet uns diese außer Kontrolle und 
 
 ## Zwischenarbeit 1
 
-Experimentieren mit GPS und Verbindungsmöglichkeiten der Drohne.<br>Die Drohne hebt nicht ab wenn eine Mission gestartet wird, da die Posotion der Drohne nicht genau genug ist. Außerdem "Driftet" das GPS stark. Warum das GPS-Modul einen USB-micro-Port hat ist uns nicht klar. Wir haben es mit dem USB-Port des Rpi Verbunden und mit I2C mit dem Flightcontroller.
-
+Experimentieren mit GPS und Verbindungsmöglichkeiten der Drohne.<br>Die Drohne hebt nicht ab wenn eine Mission gestartet wird, da die Posotion der Drohne nicht genau genug ist. Außerdem "Driftet" das GPS stark. Warum das GPS-Modul einen USB-micro-Port hat ist uns nicht klar. Wir haben es mit dem USB-Port des Rpi Verbunden und mit I2C und UART mit dem Flightcontroller. Auf der <a href="https://clover.coex.tech/en/coex_gps.html">Website</a> ist über das GPS-Modul nicht viel zu finden.<br>
+<img src="images\coex-gps-bottom.png" height="300"><img src="images\coex-gps-top.png" height="300"><br>
 [ TIPP ] Das GPS braucht ein paar Minuten um die Satelliten zu finden und eine Verbindung aufzubauen.
 Das GPS funktioniert nur draußen, am besten mit freier Sicht auf den Himmel.
 

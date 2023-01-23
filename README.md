@@ -37,7 +37,7 @@ Bau der Drohne wurde fortgesetzt.
 Das Raspberry Pi Image wurde von Max und Marko auf die SD-Karte geflasht und in den Pi eingesetzt.
 Softwareupdate (apt update/upgrade) wurde durchgeführt.
 Der Flight-controller wurde zudem auch von Nick und Jakob geflasht, jedoch musste noch die richtige Config geflasht werden, welche die richtigern Parameter beinhaltet. Diese ist auf der <a href="https://github.com/CopterExpress/Firmware/releases/download/v1.8.2-clover.13/px4fmu-v4_default.px4">COEX Website</a> zu finden.
-Der Rpi hat nicht in der Reihenfolge draufgepasst, ohne die löcher größer zu feilen, daher haben wir die Reihenfolge des Einbaus der Komponenten geändert. Die RC zeigt die Batterie der Drohne nixht wie auf der Website gezeigt an.
+Der Rpi hat nicht in der Reihenfolge draufgepasst, ohne die löcher größer zu feilen, daher haben wir die Reihenfolge des Einbaus der Komponenten geändert. Die RC zeigt die Batterie der Drohne nicht wie auf der Website gezeigt an.
 
 <img src="images\connectionOK.jpg" width="350">
 

@@ -18,6 +18,10 @@ Eingebaute Teile:
 - Power Distribution Board ( PDB )
 - Flight Controller ( <a href=https://clover.coex.tech/en/coex_pix.html>COEX Pix Pinout</a> )
 
+  ### Pinout:
+
+<img src="images/coexpix-bottom.jpg" height="350"> <img src="images/coexpix-top.jpg" height="350">
+
 Zusatzinformationen:<br>
 
 - Die Motoren wurden mit den ESCs verbunden.<br>
@@ -124,9 +128,9 @@ Sebis Gruppe hatte eine verbundene RC, jedoch wurden die Channel trotzdem nicht 
 Außerdem Reagiert die Drohne nur ser verzögert auf die RC und das auf nahezu zufälligem wege. Warum dies so ist, ist uns nicht klar.
 Auch wackelt die Drohne sehr suspiziös wenn sich die Motoren drehen. Wir sind uns nicht sicher ob dies ein Hardware oder Software Problem ist.
 
-# WICHTIGE INFORMATIONEN
+# WICHTIGE INFORMATIONEN ⚠️
 
-- Batterien nicht zu sehr entladen, da diese sonst unbrauchbar werden (max 16,8V (vollgeladen) - min 14,8V)(Pro Zelle: min 4.2V (vollgeladen) - min 3.5V).
+- ⚠️ Batterien nicht zu sehr entladen ⚠️, da diese sonst unbrauchbar werden (max 16,8V (vollgeladen) - min 14,8V)(Pro Zelle: min 4.2V (vollgeladen) - min 3.5V).
 - Den Motortest nur ohne Propeller durchführen da Verletzungen entstehen könnten sowie Schäden an der Drohne und anderen Gegenständen.
 
 ---

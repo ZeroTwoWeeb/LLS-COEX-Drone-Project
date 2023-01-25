@@ -87,17 +87,41 @@ Setze einen Haken bei "**Advanced Settings**" und wähle "**Custom firmware file
 
 Die Einstellungen sehen so aus:
 
-///////BILD////////https://clover.coex.tech/assets/qgc-requires-setup.png
+<img src="anleitung_images/qgc-requires-setup.png">
 
 Parameter die eingestellt werden müssen: Airframe, Radio, Sensoren, Flight Modes.
 
 ### <a href="https://clover.coex.tech/en/setup.html#selecting-the-airframe">Selecting the airframe</a>
 
-////////BILD////////https://clover.coex.tech/assets/qgc-frame-apply-clover4.png
+<img src="anleitung_images/qgc-frame-apply-clover4.png">
 
-1. Öffnet das airframe Menü.
-2. Wählt "**COEX Clover 4**" aus.
+1. Öffnet das Airframe Menü.
+2. Wähle den "**Quadrotor X**" airframe aus.
+3. Wähle "**COEX Clover 4**" aus dem dropdown menü aus. Ansonsten wähle "**Generic Quadrotor X**" aus.
+4. Starte den Flight Controller in der rechten oberen Ecke neu bevor andere Einstellungen verändert werden.
 
 ### <a href="https://clover.coex.tech/en/setup.html#setting-parameters">Setting parameters</a>
 
+1. Öffne das "**Parameters**" Menü.
+2. Suche nach den Jeweiligen parametern und ändere diese wie in der Tabelle angegeben. Dies sind Durchschnittswerte und sollten für jede Drohne individuell eingestellt werden.
+
+```
+- MC_PITCHRATE_P = 0.087
+- MC_PITCHRATE_I = 0.037
+- MC_PITCHRATE_D = 0.0044
+- MC_PITCH_P = 8.5
+- MC_ROLLRATE_P = 0.087
+- MC_ROLLRATE_I = 0.037
+- MC_ROLLRATE_D = 0.0044
+- MC_ROLL_P = 8.5
+- MPC_XY_VEL_P = 0.11
+- MPC_XY_VEL_D = 0.013
+- MPC_XY_P = 1.1
+- MPC_Z_VEL_P = 0.24
+- MPC_Z_P = 1.2
+```
+
 ### <a href="https://clover.coex.tech/en/setup.html#circuit-breaker-parameters">Circuit breaker parameters</a>
+
+1. Setze den "**CBRK_USB_CHK**" Parameter auf **_197848_** um Flüge mit der USB Verbindung zu ermöglichen.
+2. Deaktiviere den Safety Switch Check: "**CBRK_IO_SAFETY**" = **_22027_**.
